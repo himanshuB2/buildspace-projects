@@ -93,6 +93,8 @@ Go ahead and open the code for the project now in your favorite code editor. I l
 
 Go ahead and delete the file `sample-test.js` under `test`.  Also, delete `sample-script.js` under `scripts`. Then, delete `Greeter.sol` under `contracts`. Don't delete the actual folders!
 
+If using npx, you might want to run `npx hardhat clean` to be extra sure that all the necessary files are removed.
+
 🚨 Before you click "Next Lesson"
 -------------------------------------------
 
